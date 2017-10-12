@@ -1,0 +1,493 @@
+"Cabecera","Curul","Distrito","Entidad","Nombre","Tipodeelección","Fecha","Titulo","Sentido","Circunscripción"
+"Jesús María","A-009","1","Aguascalientes","Dip. J. Pilar Moreno Montoya","Mayoría Relativa",NA,NA,NA,NA
+"Aguascalientes","H-248","2","Aguascalientes","Dip. María Teresa Jiménez Esquivel","Mayoría Relativa",NA,NA,NA,NA
+"Aguascalientes","A-002","3","Aguascalientes","Dip. José Ángel González Serna","Mayoría Relativa",NA,NA,NA,NA
+"Mexicali","B-038","1","Baja California","Dip. Benjamin Castillo Valdez","Mayoría Relativa",NA,NA,NA,NA
+"Mexicali","C-068","2","Baja California","Dip. María Fernanda Schroeder Verdugo","Mayoría Relativa",NA,NA,NA,NA
+"Ensenada","C-069","3","Baja California","Dip. Gilberto Antonio Hirata Chico","Mayoría Relativa",NA,NA,NA,NA
+"Tijuana","C-067","4","Baja California","Dip. María Elia Cabañas Aparicio","Mayoría Relativa",NA,NA,NA,NA
+"Tijuana","H-244","5","Baja California","Dip. Juan Manuel Gastélum Buenrostro","Mayoría Relativa",NA,NA,NA,NA
+"Tijuana","H-267","6","Baja California","Dip. Jaime Chris López Alvarado","Mayoría Relativa",NA,NA,NA,NA
+"Mexicali","I-303","7","Baja California","Dip. David Pérez Tejada Padilla","Mayoría Relativa",NA,NA,NA,NA
+"Tijuana","B-039","8","Baja California","Dip. Mayra Karina Robles Aguirre","Mayoría Relativa",NA,NA,NA,NA
+"Campeche","L-420","1","Campeche","Dip. Landy Margarita Berzunza Novelo","Mayoría Relativa",NA,NA,NA,NA
+"Ciudad del Carmen","L-421","2","Campeche","Dip. Rocío Adriana Abreu Artiñano","Mayoría Relativa",NA,NA,NA,NA
+"Piedras Negras","L-425","1","Coahuila","Dip. Irma Elizondo Ramírez (DECESO)","Mayoría Relativa",NA,NA,NA,NA
+"San Pedro","L-424","2","Coahuila","Dip. José Luis Flores Méndez","Mayoría Relativa",NA,NA,NA,NA
+"Monclova","G-203","3","Coahuila","Dip. Mario Alberto Dávila Delgado","Mayoría Relativa",NA,NA,NA,NA
+"Saltillo","L-427","4","Coahuila","Dip. Fernando Donato De las Fuentes Hernández","Mayoría Relativa",NA,NA,NA,NA
+"Torreón","L-423","5","Coahuila","Dip. Salomón Juan Marcos Issa","Mayoría Relativa",NA,NA,NA,NA
+"Torreón","D-094","6","Coahuila","Dip. Marcelo de Jesús Torres Cofiño","Mayoría Relativa",NA,NA,NA,NA
+"Saltillo","J-331","7","Coahuila","Dip. Esther Quintana Salinas","Mayoría Relativa",NA,NA,NA,NA
+"Colima","K-378","1","Colima","Dip. Miguel Ángel Aguayo López","Mayoría Relativa",NA,NA,NA,NA
+"Manzanillo","K-377","2","Colima","Dip. Francisco Alberto Zepeda González","Mayoría Relativa",NA,NA,NA,NA
+"Palenque","J-342","1","Chiapas","Dip. Lourdes Adriana López Moreno","Mayoría Relativa",NA,NA,NA,NA
+"Bochil","J-337","2","Chiapas","Dip. Pedro Gómez Gómez","Mayoría Relativa",NA,NA,NA,NA
+"Ocosingo","K-387","3","Chiapas","Dip. Amílcar Augusto Villafuerte Trujillo","Mayoría Relativa",NA,NA,NA,NA
+"Ocozocoautla de Espinosa","J-340","4","Chiapas","Dip. Harvey Gutiérrez Álvarez","Mayoría Relativa",NA,NA,NA,NA
+"San Cristóbal de las Casas","J-338","5","Chiapas","Dip. Luis Gómez Gómez","Mayoría Relativa",NA,NA,NA,NA
+"Tuxtla Gutiérrez","G-223","6","Chiapas","Dip. Williams Oswaldo Ochoa Gallegos","Mayoría Relativa",NA,NA,NA,NA
+"Tonalá","K-381","7","Chiapas","Dip. Francisco Grajales Palacios","Mayoría Relativa",NA,NA,NA,NA
+"Comitán de Domínguez","J-346","8","Chiapas","Dip. Oscar Eduardo Ramírez Aguilar","Mayoría Relativa",NA,NA,NA,NA
+"Tuxtla Gutiérrez","H-261","9","Chiapas","Dip. María del Rosario de Fátima Pariente Gavito","Mayoría Relativa",NA,NA,NA,NA
+"Villaflores","K-388","10","Chiapas","Dip. Héctor Narcia Alvarez","Mayoría Relativa",NA,NA,NA,NA
+"Huixtla","K-382","11","Chiapas","Dip. Hugo Mauricio Pérez Anzueto","Mayoría Relativa",NA,NA,NA,NA
+"Tapachula","J-336","12","Chiapas","Dip. Antonio De Jesús Díaz Athié","Mayoría Relativa",NA,NA,NA,NA
+"Juárez","F-175","1","Chihuahua","Dip. Adriana Fuentes Téllez","Mayoría Relativa",NA,NA,NA,NA
+"Ciudad Juárez","F-176","2","Chihuahua","Dip. José Ignacio Duarte Murillo","Mayoría Relativa",NA,NA,NA,NA
+"Juárez","I-290","3","Chihuahua","Dip. Carlos Fernando Angulo Parra","Mayoría Relativa",NA,NA,NA,NA
+"Juárez","G-215","4","Chihuahua","Dip. Luis Alfredo Murguía Lardizabal","Mayoría Relativa",NA,NA,NA,NA
+"Delicias","F-177","5","Chihuahua","Dip. Abraham Montes Alvarado","Mayoría Relativa",NA,NA,NA,NA
+"Chihuahua","G-218","6","Chihuahua","Dip. Minerva Castillo Rodríguez","Mayoría Relativa",NA,NA,NA,NA
+"Cuauhtémoc","F-174","7","Chihuahua","Dip. Kamel Athie Flores","Mayoría Relativa",NA,NA,NA,NA
+"Chihuahua","G-216","8","Chihuahua","Dip. Pedro Ignacio Domínguez Zepeda","Mayoría Relativa",NA,NA,NA,NA
+"Hidalgo del Parral","G-217","9","Chihuahua","Dip. Diana Karina Velázquez Ramírez","Mayoría Relativa",NA,NA,NA,NA
+"Gustavo A. Madero","P-504","1","Ciudad de México","Dip. Lizbeth Eugenia Rosas Montero","Mayoría Relativa",NA,NA,NA,NA
+"Gustavo A. Madero","E-160","2","Ciudad de México","Dip. Manuel Rafael Huerta Ladrón de Guevara","Mayoría Relativa",NA,NA,NA,NA
+"Azcapotzalco","F-196","3","Ciudad de México","Dip. Fernando Cuéllar Reyes","Mayoría Relativa",NA,NA,NA,NA
+"Iztapalapa","G-231","4","Ciudad de México","Dip. Carlos Augusto Morales López","Mayoría Relativa",NA,NA,NA,NA
+"Tlalpan","H-285","5","Ciudad de México","Dip. José Antonio Hurtado Gallegos","Mayoría Relativa",NA,NA,NA,NA
+"Gustavo A. Madero","D-114","6","Ciudad de México","Dip. Jhonatan Jardines Fraire","Mayoría Relativa",NA,NA,NA,NA
+"Gustavo A. Madero","C-075","7","Ciudad de México","Dip. Claudia Elena Águila Torres","Mayoría Relativa",NA,NA,NA,NA
+"Cuauhtémoc","K-409","8","Ciudad de México","Dip. Alejandro Carbajal González","Mayoría Relativa",NA,NA,NA,NA
+"Venustiano Carranza","H-274","9","Ciudad de México","Dip. Israel Moreno Rivera","Mayoría Relativa",NA,NA,NA,NA
+"Miguel Hidalgo","L-458","10","Ciudad de México","Dip. Agustín Barrios Gómez Segués","Mayoría Relativa",NA,NA,NA,NA
+"Venustiano Carranza","D-111","11","Ciudad de México","Dip. Luis Ángel Xariel Espinosa Cházaro","Mayoría Relativa",NA,NA,NA,NA
+"Cuauhtémoc","K-413","12","Ciudad de México","Dip. José Luis Muñoz Soria","Mayoría Relativa",NA,NA,NA,NA
+"Iztacalco","B-044","13","Ciudad de México","Dip. Roberto Carlos Reyes Gámiz","Mayoría Relativa",NA,NA,NA,NA
+"Tlalpan","H-277","14","Ciudad de México","Dip. Martha Lucía Mícher Camarena","Mayoría Relativa",NA,NA,NA,NA
+"Benito Juárez","J-334","15","Ciudad de México","Dip. Jorge Francisco Sotomayor Chávez","Mayoría Relativa",NA,NA,NA,NA
+"Alvaro Obregón","I-317","16","Ciudad de México","Dip. Mario Miguel Carrillo Huerta","Mayoría Relativa",NA,NA,NA,NA
+"Alvaro Obregón","E-146","17","Ciudad de México","Dip. Fernando Zárate Salgado","Mayoría Relativa",NA,NA,NA,NA
+"Iztapalapa","E-149","18","Ciudad de México","Dip. Karen Quiroga Anguiano","Mayoría Relativa",NA,NA,NA,NA
+"Iztapalapa","E-153","19","Ciudad de México","Dip. Aleida Alavez Ruiz","Mayoría Relativa",NA,NA,NA,NA
+"Iztapalapa","A-023","20","Ciudad de México","Dip. José Alberto Benavides Castañeda","Mayoría Relativa",NA,NA,NA,NA
+"Xochimilco","J-371","21","Ciudad de México","Dip. Alejandro Sánchez Camacho","Mayoría Relativa",NA,NA,NA,NA
+"Iztapalapa","G-234","22","Ciudad de México","Dip. Purificación Carpinteyro Calderón","Mayoría Relativa",NA,NA,NA,NA
+"Coyoacán","F-194","23","Ciudad de México","Dip. José Valentín Maldonado Salgado","Mayoría Relativa",NA,NA,NA,NA
+"Coyoacán","M-500","24","Ciudad de México","Dip. Gerardo Villanueva Albarrán","Mayoría Relativa",NA,NA,NA,NA
+"Iztapalapa","H-279","25","Ciudad de México","Dip. María de Lourdes Amaya Reyes","Mayoría Relativa",NA,NA,NA,NA
+"Magdalena Contreras","E-157","26","Ciudad de México","Dip. José Arturo López Candido","Mayoría Relativa",NA,NA,NA,NA
+"Tláhuac","K-412","27","Ciudad de México","Dip. Guadalupe Socorro Flores Salazar","Mayoría Relativa",NA,NA,NA,NA
+"Victoria de Durango","A-015","1","Durango","Dip. Sonia Catalina Mercado Gallegos","Mayoría Relativa",NA,NA,NA,NA
+"Gómez Palacio","A-016","2","Durango","Dip. Alma Marina Vitela Rodríguez","Mayoría Relativa",NA,NA,NA,NA
+"Guadalupe Victoria","B-041","3","Durango","Dip. José Rubén Escajeda Jiménez","Mayoría Relativa",NA,NA,NA,NA
+"Durango","A-013","4","Durango","Dip. Jorge Herrera Delgado","Mayoría Relativa",NA,NA,NA,NA
+"San Luis de la Paz","E-144","1","Guanajuato","Dip. Petra Barrera Barrera","Mayoría Relativa",NA,NA,NA,NA
+"San Miguel de Allende","F-165","2","Guanajuato","Dip. Ricardo Villarreal García","Mayoría Relativa",NA,NA,NA,NA
+"León","I-286","3","Guanajuato","Dip. Elizabeth Vargas Martín del Campo","Mayoría Relativa",NA,NA,NA,NA
+"Guanajuato","E-145","4","Guanajuato","Dip. María Esther Garza Moreno","Mayoría Relativa",NA,NA,NA,NA
+"León","G-204","5","Guanajuato","Dip. Diego Sinhué Rodríguez Vallejo","Mayoría Relativa",NA,NA,NA,NA
+"León","H-263","6","Guanajuato","Dip. Rosa Elba Pérez Hernández","Mayoría Relativa",NA,NA,NA,NA
+"San Francisco del Rincón","E-142","7","Guanajuato","Dip. María Guadalupe Velázquez Díaz","Mayoría Relativa",NA,NA,NA,NA
+"Salamanca","H-243","8","Guanajuato","Dip. Genaro Carreño Muro","Mayoría Relativa",NA,NA,NA,NA
+"Irapuato","E-143","9","Guanajuato","Dip. Alejandro Rangel Segovia","Mayoría Relativa",NA,NA,NA,NA
+"Uriangato","E-139","10","Guanajuato","Dip. Raúl Gómez Ramírez","Mayoría Relativa",NA,NA,NA,NA
+"Pénjamo","E-140","11","Guanajuato","Dip. Ma. Concepción Navarrete Vital","Mayoría Relativa",NA,NA,NA,NA
+"Celaya","I-299","12","Guanajuato","Dip. Felipe Arturo Camarena García","Mayoría Relativa",NA,NA,NA,NA
+"Valle de Santiago","J-333","13","Guanajuato","Dip. J. Jesús Oviedo Herrera","Mayoría Relativa",NA,NA,NA,NA
+"Acámbaro","E-126","14","Guanajuato","Dip. José Luis Oliveros Usabiaga","Mayoría Relativa",NA,NA,NA,NA
+"Ciudad Altamirano","L-453","1","Guerrero","Dip. Catalino Duarte Ortuño","Mayoría Relativa",NA,NA,NA,NA
+"Iguala","H-276","2","Guerrero","Dip. Marino Miranda Salgado","Mayoría Relativa",NA,NA,NA,NA
+"Zihuatanejo","A-021","3","Guerrero","Dip. Silvano Blanco Deaquino","Mayoría Relativa",NA,NA,NA,NA
+"Acapulco","H-284","4","Guerrero","Dip. Victor Manuel Jorrín Lozano","Mayoría Relativa",NA,NA,NA,NA
+"Tlapa","C-074","5","Guerrero","Dip. Vicario Portillo Martínez","Mayoría Relativa",NA,NA,NA,NA
+"Chilapa","K-410","6","Guerrero","Dip. Carlos de Jesús Alejandro","Mayoría Relativa",NA,NA,NA,NA
+"Chilpancingo de los Bravo","H-273","7","Guerrero","Dip. Jorge Salgado Parra","Mayoría Relativa",NA,NA,NA,NA
+"Ayutla de los Libres","G-232","8","Guerrero","Dip. Sebastián Alfonso de la Rosa Peláez","Mayoría Relativa",NA,NA,NA,NA
+"Acapulco de Juárez","K-416","9","Guerrero","Dip. María del Rosario Merlín García","Mayoría Relativa",NA,NA,NA,NA
+"Huejutla de Reyes","F-178","1","Hidalgo","Dip. Darío Badillo Ramírez","Mayoría Relativa",NA,NA,NA,NA
+"Ixmiquilpan","F-179","2","Hidalgo","Dip. Dulce María Muñiz Martínez","Mayoría Relativa",NA,NA,NA,NA
+"Actopan","F-181","3","Hidalgo","Dip. Víctor Hugo Velasco Orozco","Mayoría Relativa",NA,NA,NA,NA
+"Tulancingo de Bravo","G-220","4","Hidalgo","Dip. Emilse Miranda Munive","Mayoría Relativa",NA,NA,NA,NA
+"Tula de Allende","G-219","5","Hidalgo","Dip. José Antonio Rojo García de Alba","Mayoría Relativa",NA,NA,NA,NA
+"Pachuca de Soto","G-222","6","Hidalgo","Dip. Mirna Esmeralda Hernández Morales","Mayoría Relativa",NA,NA,NA,NA
+"Tepeapulco","F-180","7","Hidalgo","Dip. Francisco González Vargas","Mayoría Relativa",NA,NA,NA,NA
+"Tequila","M-494","1","Jalisco","Dip. Cesario Padilla Navarro","Mayoría Relativa",NA,NA,NA,NA
+"Lagos de Moreno","M-472","2","Jalisco","Dip. José Noel Pérez de Alba","Mayoría Relativa",NA,NA,NA,NA
+"Tepatitlán de Morelos","L-435","3","Jalisco","Dip. Cecilia González Gómez","Mayoría Relativa",NA,NA,NA,NA
+"Zapopan","L-433","4","Jalisco","Dip. Salvador Arellano Guzmán","Mayoría Relativa",NA,NA,NA,NA
+"Puerto Vallarta","L-431","5","Jalisco","Dip. Rafael González Reséndiz","Mayoría Relativa",NA,NA,NA,NA
+"Zapopan","K-393","6","Jalisco","Dip. Abel Octavio Salgado Peña","Mayoría Relativa",NA,NA,NA,NA
+"Tonalá","K-392","7","Jalisco","Dip. Sergio Armando Chávez Dávalos","Mayoría Relativa",NA,NA,NA,NA
+"Guadalajara","K-394","8","Jalisco","Dip. Leobardo Alcalá Padilla","Mayoría Relativa",NA,NA,NA,NA
+"Guadalajara","L-430","9","Jalisco","Dip. Ma Leticia Mendoza Curiel","Mayoría Relativa",NA,NA,NA,NA
+"Zapopan","H-249","10","Jalisco","Dip. Omar Antonio Borboa Becerra","Mayoría Relativa",NA,NA,NA,NA
+"Guadalajara","K-389","11","Jalisco","Dip. Claudia Delgadillo González","Mayoría Relativa",NA,NA,NA,NA
+"Tlajomulco de Zúñiga","M-471","12","Jalisco","Dip. Celia Isabel Gauna Ruiz de León","Mayoría Relativa",NA,NA,NA,NA
+"Guadalajara","L-436","13","Jalisco","Dip. Marco Antonio Barba Mariscal","Mayoría Relativa",NA,NA,NA,NA
+"La Barca","L-434","15","Jalisco","Dip. Ossiel Omar Niaves López","Mayoría Relativa",NA,NA,NA,NA
+"Tlaquepaque","L-432","16","Jalisco","Dip. Luis Armando Córdova Díaz","Mayoría Relativa",NA,NA,NA,NA
+"Jocotepec","L-428","17","Jalisco","Dip. María Angélica Magaña Zepeda","Mayoría Relativa",NA,NA,NA,NA
+"Autlán de Navarro","L-429","18","Jalisco","Dip. Gabriel Gómez Michel (DECESO)","Mayoría Relativa",NA,NA,NA,NA
+"Ciudad Guzmán","K-390","19","Jalisco","Dip. Salvador Barajas del Toro","Mayoría Relativa",NA,NA,NA,NA
+"Jilotepec de Andrés Molina Enríquez","M-493","1","México","Dip. Miguel Sámano Peralta","Mayoría Relativa",NA,NA,NA,NA
+"Teoloyucan","G-228","2","México","Dip. Gerardo Francisco Liceaga Arteaga","Mayoría Relativa",NA,NA,NA,NA
+"Atlacomulco de Fabela","F-185","3","México","Dip. José Rangel Espinosa","Mayoría Relativa",NA,NA,NA,NA
+"Nicolás Romero","I-314","4","México","Dip. Angelina Carreño Mijares","Mayoría Relativa",NA,NA,NA,NA
+"Teotihuacán de Arista","F-186","5","México","Dip. Dario Zacarías Capuchino","Mayoría Relativa",NA,NA,NA,NA
+"Coacalco de Berriozábal","G-227","6","México","Dip. Roberto Ruíz Moronatti","Mayoría Relativa",NA,NA,NA,NA
+"Cuautitlán Izcalli","H-269","7","México","Dip. Paulina Alejandra Del Moral Vela","Mayoría Relativa",NA,NA,NA,NA
+"Tultitlán de Mariano Escobedo","G-230","8","México","Dip. Marco Antonio Calzada Arroyo","Mayoría Relativa",NA,NA,NA,NA
+"Ixtlahuaca de Rayón","I-310","9","México","Dip. José Sergio Manzur Quiroga","Mayoría Relativa",NA,NA,NA,NA
+"Ecatepec de Morelos","I-316","10","México","Dip. José Luis Cruz Flores Gómez (LICENCIA)","Mayoría Relativa",NA,NA,NA,NA
+"Ecatepec de Morelos","F-184","11","México","Dip. Brenda María Izontli Alvarado Sánchez","Mayoría Relativa",NA,NA,NA,NA
+"Ixtapaluca","M-493","12","México","Dip. César Reynaldo Navarro De Alba","Mayoría Relativa",NA,NA,NA,NA
+"Ecatepec de Morelos","F-189","13","México","Dip. José Isidro Moreno Árcega","Mayoría Relativa",NA,NA,NA,NA
+"Ciudad Adolfo López Mateos","G-226","14","México","Dip. Silvia Márquez Velasco","Mayoría Relativa",NA,NA,NA,NA
+"Tlanepantla de Baz","G-205","15","México","Dip. Alberto Díaz Trujillo","Mayoría Relativa",NA,NA,NA,NA
+"Ecatepec de Morelos","H-272","16","México","Dip. Norma Ponce Orozco (LICENCIA)","Mayoría Relativa",NA,NA,NA,NA
+"Ecatepec de Morelos","D-107","17","México","Dip. Jessica Salazar Trejo","Mayoría Relativa",NA,NA,NA,NA
+"Huixquilucan de Degollado","H-270","18","México","Dip. Fernando Alfredo Maldonado Hernández","Mayoría Relativa",NA,NA,NA,NA
+"Tlalnepantla de Baz","F-185","19","México","Dip. Aurora Denisse Ugalde Alegría","Mayoría Relativa",NA,NA,NA,NA
+"Nezahualcóyotl","A-020","20","México","Dip. Joaquina Navarrete Contreras","Mayoría Relativa",NA,NA,NA,NA
+"Naucalpan de Juárez","I-315","21","México","Dip. Cristina Ruíz Sandoval","Mayoría Relativa",NA,NA,NA,NA
+"Naucalpan de Juárez","F-187","22","México","Dip. Rosalba Gualito Castañeda","Mayoría Relativa",NA,NA,NA,NA
+"Valle de Bravo","G-225","23","México","Dip. Blanca Estela Gómez Carmona","Mayoría Relativa",NA,NA,NA,NA
+"Naucalpán de Juárez","G-224","24","México","Dip. Irazema González Martínez Olivares","Mayoría Relativa",NA,NA,NA,NA
+"Chimalhuacán","L-448","25","México","Dip. Jesús Tolentino Román Bojórquez","Mayoría Relativa",NA,NA,NA,NA
+"Toluca de Lerdo","H-271","26","México","Dip. Fernando Zamora Morales","Mayoría Relativa",NA,NA,NA,NA
+"Metepec","I-312","27","México","Dip. Laura Barrera Fortoul","Mayoría Relativa",NA,NA,NA,NA
+"Zumpango de Ocampo","J-355","28","México","Dip. Sue Ellen Bernal Bolnik","Mayoría Relativa",NA,NA,NA,NA
+"Nezahualcóyolt","H-275","29","México","Dip. Valentín González Bautista","Mayoría Relativa",NA,NA,NA,NA
+"Nezahualcóyotl","A-017","30","México","Dip. Alliet Mariana Bautista Bravo","Mayoría Relativa",NA,NA,NA,NA
+"Nezahualcóyolt","B-046","31","México","Dip. Victor Manuel Bautista López","Mayoría Relativa",NA,NA,NA,NA
+"Xico","D-106","32","México","Dip. Arturo Cruz Ramírez","Mayoría Relativa",NA,NA,NA,NA
+"Chalco de Díaz Covarrubias","K-405","33","México","Dip. Juan Manuel Carbajal Hernández","Mayoría Relativa",NA,NA,NA,NA
+"Toluca","I-312","34","México","Dip. Alberto Curi Naime","Mayoría Relativa",NA,NA,NA,NA
+"Tenancingo de Degollado","J-358","35","México","Dip. Tanya Rellstab Carreto","Mayoría Relativa",NA,NA,NA,NA
+"Tejupilco de Hidalgo","K-406","36","México","Dip. Noé Barrueta Barón","Mayoría Relativa",NA,NA,NA,NA
+"Cuautitlán","G-229","37","México","Dip. Francisco Javier Fernández Clamont","Mayoría Relativa",NA,NA,NA,NA
+"Los Reyes Acaquilpan","F-188","39","México","Dip. Cristina González Cruz","Mayoría Relativa",NA,NA,NA,NA
+"San Miguel Zinacantepec","I-313","40","México","Dip. Gerardo Xavier Hernández Tapia","Mayoría Relativa",NA,NA,NA,NA
+"Lázaro Cárdenas","H-253","1","Michoacán","Dip. Rodimiro Barrera Estrada","Mayoría Relativa",NA,NA,NA,NA
+"Puruándiro","C-072","2","Michoacán","Dip. Armando Contreras Ceballos","Mayoría Relativa",NA,NA,NA,NA
+"Heroica Zitácuaro","P-509","3","Michoacán","Dip. Silvano Aureoles Conejo","Mayoría Relativa",NA,NA,NA,NA
+"Jiquilpan de Juárez","I-298","4","Michoacán","Dip. Salvador Romero Valencia","Mayoría Relativa",NA,NA,NA,NA
+"Zamora de Hidalgo","H-252","5","Michoacán","Dip. Adriana Hernández Iñiguez","Mayoría Relativa",NA,NA,NA,NA
+"Ciudad Hidalgo","I-296","6","Michoacán","Dip. Luis Olvera Correa","Mayoría Relativa",NA,NA,NA,NA
+"Zacapu","I-318","7","Michoacán","Dip. José Luis Esquivel Zalpa","Mayoría Relativa",NA,NA,NA,NA
+"Morelia","I-294","8","Michoacán","Dip. Eligio Cuitláhuac González Farias","Mayoría Relativa",NA,NA,NA,NA
+"Uruapán","I-295","9","Michoacán","Dip. Socorro de la Luz Quintana León","Mayoría Relativa",NA,NA,NA,NA
+"Morelia","J-341","10","Michoacán","Dip. Ernesto Núñez Aguilar","Mayoría Relativa",NA,NA,NA,NA
+"Pátzcuaro","I-319","11","Michoacán","Dip. Antonio García Conejo","Mayoría Relativa",NA,NA,NA,NA
+"Apatzingán de la Constitución","I-297","12","Michoacán","Dip. Salvador Ortiz García","Mayoría Relativa",NA,NA,NA,NA
+"Cuernavaca","F-200","1","Morelos","Dip. José Francisco Coronato Rodríguez","Mayoría Relativa",NA,NA,NA,NA
+"Cuautla","E-155","3","Morelos","Dip. Francisco Tomás Rodríguez Montero","Mayoría Relativa",NA,NA,NA,NA
+"Jojutla","L-456","4","Morelos","Dip. Andrés Eloy Martínez Rojas","Mayoría Relativa",NA,NA,NA,NA
+"Yautepec","M-496","5","Morelos","Dip. Víctor Reymundo Nájera Medina","Mayoría Relativa",NA,NA,NA,NA
+"Santiago Ixcuintla","M-463","1","Nayarit","Dip. Juan Manuel Rocha Piedra","Mayoría Relativa",NA,NA,NA,NA
+"Tepic","M-461","2","Nayarit","Dip. Roy Argel Gómez Olguín","Mayoría Relativa",NA,NA,NA,NA
+"Compostela","M-462","3","Nayarit","Dip. Gloria Elizabeth Núñez Sánchez","Mayoría Relativa",NA,NA,NA,NA
+"Santa Catarina","I-288","1","Nuevo León","Dip. Homero Ricardo Niño de Rivera Vela","Mayoría Relativa",NA,NA,NA,NA
+"Apodaca","M-475","2","Nuevo León","Dip. Benito Caballero Garza","Mayoría Relativa",NA,NA,NA,NA
+"Gral. Escobedo","M-478","3","Nuevo León","Dip. Abel Guerra Garza","Mayoría Relativa",NA,NA,NA,NA
+"San Nicólas de los Garza","C-054","4","Nuevo León","Dip. Víctor Oswaldo Fuentes Solís","Mayoría Relativa",NA,NA,NA,NA
+"Monterrey","J-352","5","Nuevo León","Dip. Héctor Gutiérrez De la Garza","Mayoría Relativa",NA,NA,NA,NA
+"Monterrey","C-060","6","Nuevo León","Dip. Alberto Coronado Quintanilla","Mayoría Relativa",NA,NA,NA,NA
+"Monterrey","F-166","7","Nuevo León","Dip. José Martín López Cisneros","Mayoría Relativa",NA,NA,NA,NA
+"Guadalupe","C-061","8","Nuevo León","Dip. Ernesto Alfonso Robledo Leal","Mayoría Relativa",NA,NA,NA,NA
+"Linares","K-376","9","Nuevo León","Dip. Marco Antonio González Valdez","Mayoría Relativa",NA,NA,NA,NA
+"Monterrey","J-330","10","Nuevo León","Dip. Fernando Alejandro Larrazabal Bretón","Mayoría Relativa",NA,NA,NA,NA
+"Guadalupe","M-473","11","Nuevo León","Dip. Héctor García García","Mayoría Relativa",NA,NA,NA,NA
+"Cadereyta Jiménez","M-476","12","Nuevo León","Dip. Pedro Pablo Treviño Villarreal","Mayoría Relativa",NA,NA,NA,NA
+"San Juan Bautista Tuxtepec","G-240","1","Oaxaca","Dip. José Soto Martínez","Mayoría Relativa",NA,NA,NA,NA
+"Teotitlán de Flores Magón","F-201","2","Oaxaca","Dip. Juan Luis Martínez Martínez","Mayoría Relativa",NA,NA,NA,NA
+"Heroica Ciudad de Huajuapan de León","J-364","3","Oaxaca","Dip. Gloria Bautista Cuevas","Mayoría Relativa",NA,NA,NA,NA
+"Tlacolula de Matamoros","G-236","4","Oaxaca","Dip. Eva Diego Cruz","Mayoría Relativa",NA,NA,NA,NA
+"Santo Domingo Tehuantepec","B-048","5","Oaxaca","Dip. Carol Antonio Altamirano","Mayoría Relativa",NA,NA,NA,NA
+"Heroica Ciudad de Tlaxiaco","C-082","6","Oaxaca","Dip. Rosa Elia Romero Guzmán","Mayoría Relativa",NA,NA,NA,NA
+"Juchitán de Zaragoza","H-258","7","Oaxaca","Dip. Samuel Gurrión Matias","Mayoría Relativa",NA,NA,NA,NA
+"Oaxaca de Juárez","K-415","8","Oaxaca","Dip. Hugo Jarquín","Mayoría Relativa",NA,NA,NA,NA
+"Santa Lucía del Camino","G-235","9","Oaxaca","Dip. Mario Rafael Méndez Martínez","Mayoría Relativa",NA,NA,NA,NA
+"Miahuatlán de Porfirio Díaz","F-202","10","Oaxaca","Dip. Aída Fabiola Valencia Ramírez","Mayoría Relativa",NA,NA,NA,NA
+"Santiago Pinotepa Nacional","J-363","11","Oaxaca","Dip. Delfina Elizabeth Guzmán Díaz","Mayoría Relativa",NA,NA,NA,NA
+"Huauchinango","M-481","1","Puebla","Dip. Laura Guadalupe Vargas Vargas","Mayoría Relativa",NA,NA,NA,NA
+"Zacatlán","M-489","2","Puebla","Dip. José Luis Márquez Martínez","Mayoría Relativa",NA,NA,NA,NA
+"Teziutlán","M-491","3","Puebla","Dip. Víctor Emanuel Díaz Palacios","Mayoría Relativa",NA,NA,NA,NA
+"Zacapoaxtla","M-484","4","Puebla","Dip. Josefina García Hernández","Mayoría Relativa",NA,NA,NA,NA
+"San Martín Texmelucan de Labastida","M-488","5","Puebla","Dip. Carlos Sánchez Romero","Mayoría Relativa",NA,NA,NA,NA
+"Heroica Puebla de Zaragoza","H-268","6","Puebla","Dip. José Enrique Doger Guerrero","Mayoría Relativa",NA,NA,NA,NA
+"Tepeaca","M-490","7","Puebla","Dip. Jesús Morales Flores","Mayoría Relativa",NA,NA,NA,NA
+"Ciudad Serdán","M-483","8","Puebla","Dip. Ana Isabel Allende Cano","Mayoría Relativa",NA,NA,NA,NA
+"Heroica Puebla de Zaragoza","D-100","9","Puebla","Dip. Blanca Jiménez Castillo","Mayoría Relativa",NA,NA,NA,NA
+"Cholula de Rivadavia","E-127","10","Puebla","Dip. Julio Cesar Lorenzini Rangel","Mayoría Relativa",NA,NA,NA,NA
+"Heroica Puebla de Zaragoza","L-417","11","Puebla","Dip. María Isabel Ortiz Mantilla","Mayoría Relativa",NA,NA,NA,NA
+"Heroica Puebla de Zaragoza","C-057","12","Puebla","Dip. Néstor Octavio Gordillo Castillo","Mayoría Relativa",NA,NA,NA,NA
+"Atlixco","M-479","13","Puebla","Dip. María del Rocío García Olmedo","Mayoría Relativa",NA,NA,NA,NA
+"Izúcar de Matamoros","M-482","14","Puebla","Dip. Javier Filiberto Guevara González","Mayoría Relativa",NA,NA,NA,NA
+"Tehuacán","M-480","15","Puebla","Dip. María del Carmen García de la Cadena Romero","Mayoría Relativa",NA,NA,NA,NA
+"Ajalpan","M-486","16","Puebla","Dip. Lisandro Arístides Campos Córdova","Mayoría Relativa",NA,NA,NA,NA
+"Cadereyta de Montes","M-492","1","Querétaro","Dip. Delvim Fabiola Barcenas Nieves","Mayoría Relativa",NA,NA,NA,NA
+"San Juan del Río","J-349","2","Querétaro","Dip. Ricardo Astudillo Suárez","Mayoría Relativa",NA,NA,NA,NA
+"Querétaro","C-062","3","Querétaro","Dip. Marcos Aguilar Vega","Mayoría Relativa",NA,NA,NA,NA
+"Santiago de Querétaro","F-163","4","Querétaro","Dip. José Guadalupe García Ramírez","Mayoría Relativa",NA,NA,NA,NA
+"Solidaridad","M-469","1","Quintana Roo","Dip. Eduardo Roman Quian Alcocer (LICENCIA)","Mayoría Relativa",NA,NA,NA,NA
+"Othón P. Blanco","M-470","2","Quintana Roo","Dip. Raymundo King De la Rosa","Mayoría Relativa",NA,NA,NA,NA
+"Cancún","P-508","3","Quintana Roo","Dip. Graciela Saldaña Fraire","Mayoría Relativa",NA,NA,NA,NA
+"Matehuala","M-465","1","San Luis Potosí","Dip. José Everardo Nava Gómez","Mayoría Relativa",NA,NA,NA,NA
+"Soledad de Graciano Sánchez","M-467","2","San Luis Potosí","Dip. Esther Angélica Martínez Cárdenas","Mayoría Relativa",NA,NA,NA,NA
+"Ríoverde","M-466","3","San Luis Potosí","Dip. Oscar Bautista Villegas","Mayoría Relativa",NA,NA,NA,NA
+"Ciudad Valles","M-468","4","San Luis Potosí","Dip. Jorge Terán Juárez","Mayoría Relativa",NA,NA,NA,NA
+"San Luis Potosí","P-506","5","San Luis Potosí","Dip. Xavier Azuara Zúñiga","Mayoría Relativa",NA,NA,NA,NA
+"San Luis Potosí","B-030","6","San Luis Potosí","Dip. Felipe de Jesús Almaguer Torres","Mayoría Relativa",NA,NA,NA,NA
+"Tamazunchale","M-464","7","San Luis Potosí","Dip. María Rebeca Terán Guevara","Mayoría Relativa",NA,NA,NA,NA
+"El Fuerte","G-214","1","Sinaloa","Dip. Roman Alfredo Padilla Fierro","Mayoría Relativa",NA,NA,NA,NA
+"Los Mochis","A-003","2","Sinaloa","Dip. Gerardo Peña Avilés","Mayoría Relativa",NA,NA,NA,NA
+"Guamúchil","G-212","3","Sinaloa","Dip. Alfonso Inzunza Montoya","Mayoría Relativa",NA,NA,NA,NA
+"Guasave","G-211","4","Sinaloa","Dip. Blas Ramón Rubio Lara","Mayoría Relativa",NA,NA,NA,NA
+"Culiacán","F-170","5","Sinaloa","Dip. Jesús Antonio Valdés Palazuelos","Mayoría Relativa",NA,NA,NA,NA
+"Mazatlán","P-507","6","Sinaloa","Dip. Francisca Elena Corrales Corrales","Mayoría Relativa",NA,NA,NA,NA
+"Culiacán de Rosales","G-213","7","Sinaloa","Dip. Sergio Torres Félix","Mayoría Relativa",NA,NA,NA,NA
+"Mazatlán","P-501","8","Sinaloa","Dip. Martín Alonso Heredia Lizárraga","Mayoría Relativa",NA,NA,NA,NA
+"San Luis Río Colorado","F-168","1","Sonora","Dip. José Enrique Reina Lizárraga","Mayoría Relativa",NA,NA,NA,NA
+"Nogales","A-006","2","Sonora","Dip. David Cuauhtémoc Galindo Delgado","Mayoría Relativa",NA,NA,NA,NA
+"Hermosillo","F-167","3","Sonora","Dip. Alejandra López Noriega","Mayoría Relativa",NA,NA,NA,NA
+"Guaymas","A-012","4","Sonora","Dip. Antonio Francisco Astiazarán Gutiérrez","Mayoría Relativa",NA,NA,NA,NA
+"Hermosillo","C-053","5","Sonora","Dip. Damián Zepeda Vidales","Mayoría Relativa",NA,NA,NA,NA
+"Cd. Obregón","A-010","6","Sonora","Dip. Faustino Félix Chávez","Mayoría Relativa",NA,NA,NA,NA
+"Navojoa","B-031","7","Sonora","Dip. Máximo Othón Zayas","Mayoría Relativa",NA,NA,NA,NA
+"Macuspana","I-327","1","Tabasco","Dip. Claudia Elizabeth Bojórquez Javier","Mayoría Relativa",NA,NA,NA,NA
+"Heroica Cárdenas","I-328","2","Tabasco","Dip. Tomás Brito Lara","Mayoría Relativa",NA,NA,NA,NA
+"Comalcalco","I-325","3","Tabasco","Dip. Lorena Méndez Denis","Mayoría Relativa",NA,NA,NA,NA
+"Centro","I-323","4","Tabasco","Dip. Gerardo Gaudiano Rovirosa","Mayoría Relativa",NA,NA,NA,NA
+"Paraíso","I-329","5","Tabasco","Dip. Marcos Rosendo Medina Filigrana","Mayoría Relativa",NA,NA,NA,NA
+"Nuevo Laredo","F-169","1","Tamaulipas","Dip. Glafiro Salinas Mendiola","Mayoría Relativa",NA,NA,NA,NA
+"Reynosa","D-099","2","Tamaulipas","Dip. Humberto Armando Prieto Herrera","Mayoría Relativa",NA,NA,NA,NA
+"Río Bravo","C-059","3","Tamaulipas","Dip. José Alejandro Llanas Alba","Mayoría Relativa",NA,NA,NA,NA
+"H. Matamoros","H-247","4","Tamaulipas","Dip. Carlos Alberto García González","Mayoría Relativa",NA,NA,NA,NA
+"Victoria","K-399","5","Tamaulipas","Dip. Enrique Cárdenas del Avellano","Mayoría Relativa",NA,NA,NA,NA
+"Ciudad Mante","K-398","6","Tamaulipas","Dip. Rosalba De la Cruz Requena","Mayoría Relativa",NA,NA,NA,NA
+"Ciudad Madero","F-162","7","Tamaulipas","Dip. Marcelina Orta Coronado","Mayoría Relativa",NA,NA,NA,NA
+"Tampico","A-004","8","Tamaulipas","Dip. Germán Pacheco Díaz","Mayoría Relativa",NA,NA,NA,NA
+"Apizaco","J-335","1","Tlaxcala","Dip. María Guadalupe Sánchez Santiago","Mayoría Relativa",NA,NA,NA,NA
+"Tlaxcala de Xicohténcatl","J-366","2","Tlaxcala","Dip. José Humberto Vega Vázquez","Mayoría Relativa",NA,NA,NA,NA
+"Zacatelco","J-367","3","Tlaxcala","Dip. Edilberto Algredo Jaramillo","Mayoría Relativa",NA,NA,NA,NA
+"Pánuco","L-446","1","Veracruz","Dip. Zita Beatriz Pazzi Maza","Mayoría Relativa",NA,NA,NA,NA
+"Tantoyuca","K-400","2","Veracruz","Dip. Leopoldo Sánchez Cruz","Mayoría Relativa",NA,NA,NA,NA
+"Tuxpan de Rodríguez Cano","K-403","3","Veracruz","Dip. Genaro Ruíz Arriaga","Mayoría Relativa",NA,NA,NA,NA
+"Veracruz","G-206","4","Veracruz","Dip. Humberto Alonso Morelli","Mayoría Relativa",NA,NA,NA,NA
+"Poza Rica de Hidalgo","K-404","5","Veracruz","Dip. Gaudencio Hernández Burgos","Mayoría Relativa",NA,NA,NA,NA
+"Papantla de Olarte","L-445","6","Veracruz","Dip. Alma Jeanny Arroyo Ruíz","Mayoría Relativa",NA,NA,NA,NA
+"Martínez de la Torre","L-452","7","Veracruz","Dip. Verónica Carreón Cervantes","Mayoría Relativa",NA,NA,NA,NA
+"Xalapa","L-438","8","Veracruz","Dip. José Alejandro Montano Guzmán","Mayoría Relativa",NA,NA,NA,NA
+"Coatepec","K-401","9","Veracruz","Dip. Fernando Charleston Hernández","Mayoría Relativa",NA,NA,NA,NA
+"Xalapa","L-457","10","Veracruz","Dip. Uriel Flores Aguayo","Mayoría Relativa",NA,NA,NA,NA
+"Coatzacoalcos","J-361","11","Veracruz","Dip. Joaquín Caballero Rosiñol","Mayoría Relativa",NA,NA,NA,NA
+"Veracruz","B-025","12","Veracruz","Dip. Rafael Acosta Croda","Mayoría Relativa",NA,NA,NA,NA
+"Minatitlán","K-402","14","Veracruz","Dip. Noé Hernández González","Mayoría Relativa",NA,NA,NA,NA
+"Orizaba","L-447","15","Veracruz","Dip. Juan Manuel Diez Francos","Mayoría Relativa",NA,NA,NA,NA
+"Córdoba","M-459","16","Veracruz","Dip. Leticia López Landero","Mayoría Relativa",NA,NA,NA,NA
+"Cosamaloapan","C-055","17","Veracruz","Dip. Gabriel de Jesús Cárdenas Guízar","Mayoría Relativa",NA,NA,NA,NA
+"Zongolica","L-440","18","Veracruz","Dip. Tomás López Landero","Mayoría Relativa",NA,NA,NA,NA
+"San Andrés Tuxtla","L-444","19","Veracruz","Dip. Marina Garay Cabada","Mayoría Relativa",NA,NA,NA,NA
+"Acayucan","L-443","20","Veracruz","Dip. Regina Vázquez Saut","Mayoría Relativa",NA,NA,NA,NA
+"Cosoleacaque","L-441","21","Veracruz","Dip. Ponciano Vázquez Parissi","Mayoría Relativa",NA,NA,NA,NA
+"Valladolid","D-105","1","Yucatán","Dip. William Renan Sosa Altamira","Mayoría Relativa",NA,NA,NA,NA
+"Progreso","D-103","2","Yucatán","Dip. María del Carmen Ordaz Martínez","Mayoría Relativa",NA,NA,NA,NA
+"Mérida","D-101","3","Yucatán","Dip. Mauricio Sahui Rivero","Mayoría Relativa",NA,NA,NA,NA
+"Mérida","B-028","4","Yucatán","Dip. Raúl Paz Alonzo (LICENCIA)","Mayoría Relativa",NA,NA,NA,NA
+"Ticul","D-104","5","Yucatán","Dip. Marco Alonso Vela Reyes","Mayoría Relativa",NA,NA,NA,NA
+"Fresnillo","K-379","1","Zacatecas","Dip. Adolfo Bonilla Gómez","Mayoría Relativa",NA,NA,NA,NA
+"Jerez de García Salinas","K-380","2","Zacatecas","Dip. Julio César Flemate Ramírez","Mayoría Relativa",NA,NA,NA,NA
+"Zacatecas","K-385","3","Zacatecas","Dip. Judit Magdalena Guerrero López","Mayoría Relativa",NA,NA,NA,NA
+"Guadalupe","J-344","4","Zacatecas","Dip. Bárbara Gabriela Romo Fonseca","Mayoría Relativa",NA,NA,NA,NA
+"","D-097",NA,"Sonora","Dip. Mario Sánchez Ruíz","Representación proporcional",NA,NA,NA,"1"
+"","I-287",NA,"Jalisco","Dip. Carmen Lucia Pérez Camarena","Representación proporcional",NA,NA,NA,"1"
+"","E-136",NA,"Sinaloa","Dip. Jorge Iván Villalobos Seáñez","Representación proporcional",NA,NA,NA,"1"
+"","I-289",NA,"Sonora","Dip. Leslie Pantoja Hernández","Representación proporcional",NA,NA,NA,"1"
+"","B-029",NA,"Baja California","Dip. Andrés de la Rosa Anaya","Representación proporcional",NA,NA,NA,"1"
+"","E-131",NA,"Jalisco","Dip. Isaías Cortés Berumen","Representación proporcional",NA,NA,NA,"1"
+"","E-120",NA,"Chihuahua","Dip. Rocío Esmeralda Reza Gallegos","Representación proporcional",NA,NA,NA,"1"
+"","D-088",NA,"Sinaloa","Dip. Carlos Humberto Castaños Valenzuela","Representación proporcional",NA,NA,NA,"1"
+"","B-033",NA,"Nayarit","Dip. María Celia Urciel Castañeda","Representación proporcional",NA,NA,NA,"1"
+"","E-128",NA,"Durango","Dip. Rodolfo Dorador Pérez Gavilán","Representación proporcional",NA,NA,NA,"1"
+"","D-086",NA,"Baja California Sur","Dip. Alfredo Zamora García","Representación proporcional",NA,NA,NA,"1"
+"","K-375",NA,"Jalisco","Dip. Margarita Licea González","Representación proporcional",NA,NA,NA,"1"
+"","E-129",NA,"Sonora","Dip. Heberto Neblina Vega","Representación proporcional",NA,NA,NA,"1"
+"","H-245",NA,"Sinaloa","Dip. Tania Margarita Morgan Navarrete","Representación proporcional",NA,NA,NA,"1"
+"","E-122",NA,"Querétaro","Dip. José Alfredo Botello Montes","Representación proporcional",NA,NA,NA,"2"
+"","I-309",NA,"Sonora","Dip. Manlio Fabio Beltrones Rivera (LICENCIA)","Representación proporcional",NA,NA,NA,"1"
+"","H-265",NA,"Durango","Dip. Lourdes Eulalia Quiñones Canales","Representación proporcional",NA,NA,NA,"1"
+"","F-171",NA,"Sinaloa","Dip. Raúl Santos Galván Villanueva","Representación proporcional",NA,NA,NA,"1"
+"","L-450",NA,"Jalisco","Dip. Maria del Rocio Corona Nakamura","Representación proporcional",NA,NA,NA,"1"
+"","H-267",NA,"Baja California","Dip. Fernando Jorge Castro Trenti","Representación proporcional",NA,NA,NA,"1"
+"","A-011",NA,"Sonora","Dip. Flor Ayala Robles Linares","Representación proporcional",NA,NA,NA,"1"
+"","L-437",NA,"Jalisco","Dip. Patricio Flores Sandoval","Representación proporcional",NA,NA,NA,"1"
+"","",NA,"Baja California","Dip. María Elvia Amaya Araujo (DECESO)","Representación proporcional",NA,NA,NA,"1"
+"","F-173",NA,"Sinaloa","Dip. Heriberto Manuel Galindo Quiñones","Representación proporcional",NA,NA,NA,"1"
+"","H-254",NA,"Jalisco","Dip. Patricia Elena Retamoza Vega","Representación proporcional",NA,NA,NA,"1"
+"","A-014",NA,"Durango","Dip. Ricardo Fidel Pacheco Rodríguez","Representación proporcional",NA,NA,NA,"1"
+"","D-113",NA,"Jalisco","Dip. Verónica Beatriz Juárez Piña","Representación proporcional",NA,NA,NA,"1"
+"","F-192",NA,"Nayarit","Dip. Rodrigo González Barrios","Representación proporcional",NA,NA,NA,"1"
+"","J-365",NA,"Sonora","Dip. Lorenia Iveth Valles Sampedro","Representación proporcional",NA,NA,NA,"1"
+"","F-193",NA,"Jalisco","Dip. Roberto López González","Representación proporcional",NA,NA,NA,"1"
+"","I-320",NA,"Chihuahua","Dip. Crystal Tovar Aragón","Representación proporcional",NA,NA,NA,"1"
+"","A-024",NA,"Baja California","Dip. Jaime Bonilla Valdez","Representación proporcional",NA,NA,NA,"1"
+"","D-118",NA,"Chihuahua","Dip. Lilia Aguilar Gil","Representación proporcional",NA,NA,NA,"1"
+"","H-260",NA,"Chihuahua","Dip. Rubén Acosta Montoya","Representación proporcional",NA,NA,NA,"1"
+"","I-301",NA,"Baja California","Dip. Ana Lilia Garza Cadena","Representación proporcional",NA,NA,NA,"1"
+"","H-281",NA,"Sonora","Dip. Francisco Alfonso Durazo Montaño","Representación proporcional",NA,NA,NA,"1"
+"","P-508",NA,"Jalisco","Dip. Merilyn Gómez Pozos","Representación proporcional",NA,NA,NA,"1"
+"","G-241",NA,"Jalisco","Dip. José Luis Valle Magaña","Representación proporcional",NA,NA,NA,"1"
+"","C-063",NA,"Sinaloa","Dip. Rubén Benjamín Félix Hays","Representación proporcional",NA,NA,NA,"1"
+"","C-064",NA,"Sonora","Dip. Dora María Guadalupe Talamante Lemas","Representación proporcional",NA,NA,NA,"1"
+"","D-096",NA,"Guanajuato","Dip. Luis Alberto Villarreal García","Representación proporcional",NA,NA,NA,"2"
+"","I-293",NA,"Guanajuato","Dip. Elizabeth Oswelia Yáñez Robles","Representación proporcional",NA,NA,NA,"2"
+"","I-291",NA,"Aguascalientes","Dip. Rubén Camarillo Ortega","Representación proporcional",NA,NA,NA,"2"
+"","E-132",NA,"Guanajuato","Dip. Beatriz Eugenia Yamamoto Cázares","Representación proporcional",NA,NA,NA,"2"
+"","A-001",NA,"Guanajuato","Dip. Juan Carlos Muñoz Márquez","Representación proporcional",NA,NA,NA,"2"
+"","D-093",NA,"Querétaro","Dip. Ricardo Anaya Cortés (LICENCIA)","Representación proporcional",NA,NA,NA,"2"
+"","D-092",NA,"Nuevo León","Dip. Consuelo Argüelles Loya","Representación proporcional",NA,NA,NA,"2"
+"","D-090",NA,"Nuevo León","Dip. José Arturo Salinas Garza","Representación proporcional",NA,NA,NA,"2"
+"","B-032",NA,"San Luis Potosí","Dip. María Concepción Ramírez Diez Gutiérrez","Representación proporcional",NA,NA,NA,"2"
+"","E-124",NA,"San Luis Potosí","Dip. Enrique Alejandro Flores Flores","Representación proporcional",NA,NA,NA,"2"
+"","G-209",NA,"Tamaulipas","Dip. Ramón Antonio Sampayo Ortíz","Representación proporcional",NA,NA,NA,"2"
+"","D-084",NA,"Nuevo León","Dip. Verónica Sada Pérez","Representación proporcional",NA,NA,NA,"2"
+"","E-138",NA,"Aguascalientes","Dip. Raudel López López","Representación proporcional",NA,NA,NA,"2"
+"","E-121",NA,"Querétaro","Dip. Raquel Jiménez Cerrillo","Representación proporcional",NA,NA,NA,"2"
+"","E-130",NA,"Coahuila","Dip. José Guillermo Anaya Llamas","Representación proporcional",NA,NA,NA,"2"
+"","E-133",NA,"Zacatecas","Dip. José Isabel Trejo Reyes","Representación proporcional",NA,NA,NA,"2"
+"","C-051",NA,"Tamaulipas","Dip. Lazara Nelly González Aguilar","Representación proporcional",NA,NA,NA,"2"
+"","P-503",NA,"Guanajuato","Dip. Francisco Arroyo Vieyra","Representación proporcional",NA,NA,NA,"2"
+"","E-141",NA,"Guanajuato","Dip. Ma. Elena Cano Ayala","Representación proporcional",NA,NA,NA,"2"
+"","H-266",NA,"Nuevo León","Dip. Jorge Mendoza Garza","Representación proporcional",NA,NA,NA,"2"
+"","K-397",NA,"Tamaulipas","Dip. Elsa Patricia Araujo de la Torre","Representación proporcional",NA,NA,NA,"2"
+"","M-474",NA,"Nuevo León","Dip. Javier Treviño Cantú","Representación proporcional",NA,NA,NA,"2"
+"","L-426",NA,"Coahuila","Dip. Miriam Cárdenas Cantú","Representación proporcional",NA,NA,NA,"2"
+"","J-351",NA,"Tamaulipas","Dip. Marco Antonio Bernal Gutiérrez","Representación proporcional",NA,NA,NA,"2"
+"","K-396",NA,"Tamaulipas","Dip. Amira Gricelda Gómez Tueme","Representación proporcional",NA,NA,NA,"2"
+"","K-395",NA,"Nuevo León","Dip. Eloy Cantú Segovia","Representación proporcional",NA,NA,NA,"2"
+"","M-477",NA,"Nuevo León","Dip. María de Jesús Huerta Rea","Representación proporcional",NA,NA,NA,"2"
+"","I-304",NA,"Ciudad de México","Dip. Ruth Zavaleta Salgado","Representación proporcional",NA,NA,NA,"4"
+"","E-151",NA,"Guanajuato","Dip. Agustín Miguel Alonso Raya","Representación proporcional",NA,NA,NA,"2"
+"","J-369",NA,"Nuevo León","Dip. María del Socorro Ceseñas Chapa","Representación proporcional",NA,NA,NA,"2"
+"","E-150",NA,"Zacatecas","Dip. Roberto López Suárez","Representación proporcional",NA,NA,NA,"2"
+"","D-112",NA,"Coahuila","Dip. Alfa Eliana González Magallanes","Representación proporcional",NA,NA,NA,"2"
+"","B-047",NA,"Nuevo León","Dip. Marcelo Garza Ruvalcaba","Representación proporcional",NA,NA,NA,"2"
+"","D-115",NA,"Nuevo León","Dip. Alberto Anaya Gutiérrez","Representación proporcional",NA,NA,NA,"2"
+"","B-049",NA,"Zacatecas","Dip. Magdalena del Socorro Núñez Monreal","Representación proporcional",NA,NA,NA,"2"
+"","H-259",NA,"Aguascalientes","Dip. Antonio Cuéllar Steffan","Representación proporcional",NA,NA,NA,"2"
+"","I-305",NA,"Aguascalientes","Dip. Mónica García de la Fuente","Representación proporcional",NA,NA,NA,"2"
+"","P-502",NA,"Zacatecas","Dip. Tomás Torres Mercado","Representación proporcional",NA,NA,NA,"2"
+"","A-007",NA,"Guanajuato","Dip. Fernando Bribiesca Sahagún","Representación proporcional",NA,NA,NA,"2"
+"","B-036",NA,"Nuevo León","Dip. María Sanjuana Cerda Franco","Representación proporcional",NA,NA,NA,"2"
+"","B-026",NA,"Oaxaca","Dip. Eufrosina Cruz Mendoza","Representación proporcional",NA,NA,NA,"3"
+"","D-089",NA,"Veracruz","Dip. Juan Bueno Torio","Representación proporcional",NA,NA,NA,"3"
+"","E-134",NA,"Yucatán","Dip. Beatriz Zavala Peniche","Representación proporcional",NA,NA,NA,"3"
+"","D-098",NA,"Campeche","Dip. Jorge Rosiñol Abreu","Representación proporcional",NA,NA,NA,"3"
+"","E-119",NA,"Veracruz","Dip. Mariana Dunyaska García Rojas","Representación proporcional",NA,NA,NA,"3"
+"","H-250",NA,"Yucatán","Dip. Sergio Augusto Chan Lugo","Representación proporcional",NA,NA,NA,"3"
+"","L-419",NA,"Quintana Roo","Dip. Alicia Concepción Ricalde Magaña","Representación proporcional",NA,NA,NA,"3"
+"","L-418",NA,"Chiapas","Dip. Juan Jesús Aquino Calvo","Representación proporcional",NA,NA,NA,"3"
+"","C-052",NA,"Yucatán","Dip. Cinthya Noemí Valladares Couoh (LICENCIA)","Representación proporcional",NA,NA,NA,"3"
+"","K-374",NA,"Oaxaca","Dip. Víctor Rafael González Manríquez","Representación proporcional",NA,NA,NA,"3"
+"","F-164",NA,"Tabasco","Dip. Juan Francisco Cáceres de la Fuente","Representación proporcional",NA,NA,NA,"3"
+"","J-354",NA,"Campeche","Dip. Rafael Alejandro Moreno Cárdenas","Representación proporcional",NA,NA,NA,"3"
+"","J-339",NA,"Chiapas","Dip. Areli Madrid Tovilla","Representación proporcional",NA,NA,NA,"3"
+"","L-439",NA,"Veracruz","Dip. Luis Ricardo Aldana Prieto","Representación proporcional",NA,NA,NA,"3"
+"","D-102",NA,"Yucatán","Dip. Guadalupe del Socorro Ortega Pacheco","Representación proporcional",NA,NA,NA,"3"
+"","H-257",NA,"Oaxaca","Dip. Martín de Jesús Vásquez Villanueva","Representación proporcional",NA,NA,NA,"3"
+"","I-310",NA,"Oaxaca","Dip. María de las Nieves García Fernández","Representación proporcional",NA,NA,NA,"3"
+"","L-442",NA,"Veracruz","Dip. Jorge Del Angel Acosta","Representación proporcional",NA,NA,NA,"3"
+"","L-451",NA,"Quintana Roo","Dip. Lizbeth Loy Gamboa Song","Representación proporcional",NA,NA,NA,"3"
+"","K-383",NA,"Chiapas","Dip. Simón Valanci Buzali","Representación proporcional",NA,NA,NA,"3"
+"","L-422",NA,"Campeche","Dip. Elvia María Pérez Escalante","Representación proporcional",NA,NA,NA,"3"
+"","B-043",NA,"Oaxaca","Dip. Angélica Rocío Melchor Vásquez","Representación proporcional",NA,NA,NA,"3"
+"","E-156",NA,"Veracruz","Dip. José Antonio León Mendívil","Representación proporcional",NA,NA,NA,"3"
+"","M-497",NA,"Veracruz","Dip. Yazmin de los Ángeles Copete Zapot","Representación proporcional",NA,NA,NA,"3"
+"","A-018",NA,"Tabasco","Dip. Juan Manuel Fócil Pérez","Representación proporcional",NA,NA,NA,"3"
+"","I-326",NA,"Tabasco","Dip. María Fernanda Romero Lozano","Representación proporcional",NA,NA,NA,"3"
+"","F-190",NA,"Oaxaca","Dip. Rosendo Serrano Toledo","Representación proporcional",NA,NA,NA,"3"
+"","C-078",NA,"Yucatán","Dip. Teresita de Jesús Borges Pasos","Representación proporcional",NA,NA,NA,"3"
+"","C-073",NA,"Yucatán","Dip. Mario Alejandro Cuevas Mena","Representación proporcional",NA,NA,NA,"3"
+"","I-322",NA,"Veracruz","Dip. María Guadalupe Moctezuma Oviedo","Representación proporcional",NA,NA,NA,"3"
+"","E-159",NA,"Chiapas","Dip. Héctor Hugo Roblero Gordillo","Representación proporcional",NA,NA,NA,"3"
+"","C-080",NA,"Veracruz","Dip. Araceli Torres Flores","Representación proporcional",NA,NA,NA,"3"
+"","K-385",NA,"Chiapas","Dip. Raciel López Salazar","Representación proporcional",NA,NA,NA,"3"
+"","J-347",NA,"Quintana Roo","Dip. Gabriela Medrano Galindo","Representación proporcional",NA,NA,NA,"3"
+"","J-345",NA,"Veracruz","Dip. Federico José González Luna Bueno","Representación proporcional",NA,NA,NA,"3"
+"","J-343",NA,"Chiapas","Dip. Martha Edith Vital Vera","Representación proporcional",NA,NA,NA,"3"
+"","F-198",NA,"Tabasco","Dip. Nelly del Carmen Vargas Pérez","Representación proporcional",NA,NA,NA,"3"
+"","A-008",NA,"Campeche","Dip. José Angelino Caamal Mena","Representación proporcional",NA,NA,NA,"3"
+"","B-035",NA,"Chiapas","Dip. Sonia Rincón Chanona","Representación proporcional",NA,NA,NA,"3"
+"","H-246",NA,"Morelos","Dip. Juan Pablo Adame Alemán","Representación proporcional",NA,NA,NA,"4"
+"","C-058",NA,"Ciudad de México","Dip. Flor de María Pedraza Aguilera","Representación proporcional",NA,NA,NA,"4"
+"","D-087",NA,"Ciudad de México","Dip. Gerardo Maximiliano Cortázar Lara","Representación proporcional",NA,NA,NA,"4"
+"","A-005",NA,"Tlaxcala","Dip. Leonor Romero Sevilla","Representación proporcional",NA,NA,NA,"4"
+"","H-242",NA,"Puebla","Dip. Rafael Alejandro Micalco Méndez","Representación proporcional",NA,NA,NA,"4"
+"","K-372",NA,"Ciudad de México","Dip. Fernando Rodríguez Doval","Representación proporcional",NA,NA,NA,"4"
+"","E-123",NA,"Ciudad de México","Dip. Margarita Saldaña Hernández","Representación proporcional",NA,NA,NA,"4"
+"","D-083",NA,"Morelos","Dip. Luis Miguel Ramírez Romero","Representación proporcional",NA,NA,NA,"4"
+"","D-095",NA,"Tlaxcala","Dip. Aurora de la Luz Aguilar Rodríguez","Representación proporcional",NA,NA,NA,"4"
+"","H-264",NA,"Ciudad de México","Dip. Carlos Humberto Aceves y del Olmo","Representación proporcional",NA,NA,NA,"4"
+"","J-350",NA,"Morelos","Dip. Maricela Velázquez Sánchez","Representación proporcional",NA,NA,NA,"4"
+"","I-308",NA,"Guerrero","Dip. Manuel Añorve Baños","Representación proporcional",NA,NA,NA,"4"
+"","M-487",NA,"Puebla","Dip. Frine Soraya Córdova Morán","Representación proporcional",NA,NA,NA,"4"
+"","M-485",NA,"Puebla","Dip. Javier López Zavala","Representación proporcional",NA,NA,NA,"4"
+"","H-255",NA,"Ciudad de México","Dip. Paloma Villaseñor Vargas","Representación proporcional",NA,NA,NA,"4"
+"","H-256",NA,"Ciudad de México","Dip. Felipe de Jesús Muñoz Kapamas","Representación proporcional",NA,NA,NA,"4"
+"","P-509",NA,"Ciudad de México","Dip. Julio César Moreno Rivera","Representación proporcional",NA,NA,NA,"4"
+"","E-148",NA,"Guerrero","Dip. Teresa de Jesús Mojica Morga","Representación proporcional",NA,NA,NA,"4"
+"","E-154",NA,"Ciudad de México","Dip. Trinidad Secundino Morales Vargas","Representación proporcional",NA,NA,NA,"4"
+"","K-414",NA,"Morelos","Dip. Gisela Raquel Mota Ocampo","Representación proporcional",NA,NA,NA,"4"
+"","K-408",NA,"Ciudad de México","Dip. José Ángel Ávila Pérez","Representación proporcional",NA,NA,NA,"4"
+"","I-321",NA,"Ciudad de México","Dip. Amalia Dolores García Medina","Representación proporcional",NA,NA,NA,"4"
+"","G-233",NA,"Ciudad de México","Dip. Fernando Belaunzarán Méndez","Representación proporcional",NA,NA,NA,"4"
+"","A-022",NA,"Puebla","Dip. Roxana Luna Porquillo","Representación proporcional",NA,NA,NA,"4"
+"","J-368",NA,"Ciudad de México","Dip. Guillermo Sánchez Torres","Representación proporcional",NA,NA,NA,"4"
+"","H-278",NA,"Ciudad de México","Dip. Yesenia Nolasco Ramírez","Representación proporcional",NA,NA,NA,"4"
+"","M-499",NA,"Ciudad de México","Dip. Martí Batres Guadarrama","Representación proporcional",NA,NA,NA,"4"
+"","E-147",NA,"Ciudad de México","Dip. Margarita Elena Tapia Fonllem","Representación proporcional",NA,NA,NA,"4"
+"","C-076",NA,"Ciudad de México","Dip. Luis Manuel Arias Pallares","Representación proporcional",NA,NA,NA,"4"
+"","G-239",NA,"Ciudad de México","Dip. Ricardo Monreal Ávila","Representación proporcional",NA,NA,NA,"4"
+"","A-050",NA,"Ciudad de México","Dip. Loretta Ortíz Ahlf","Representación proporcional",NA,NA,NA,"4"
+"","D-116",NA,"Ciudad de México","Dip. Adolfo Orive Bellinger","Representación proporcional",NA,NA,NA,"4"
+"","I-302",NA,"Ciudad de México","Dip. Laura Ximena Martel Cantú","Representación proporcional",NA,NA,NA,"4"
+"","I-306",NA,"Ciudad de México","Dip. Arturo Escobar y Vega","Representación proporcional",NA,NA,NA,"4"
+"","H-282",NA,"Ciudad de México","Dip. Luisa María Alcalde Luján","Representación proporcional",NA,NA,NA,"4"
+"","G-238",NA,"Guerrero","Dip. Ricardo Mejía Berdeja","Representación proporcional",NA,NA,NA,"4"
+"","F-197",NA,"Puebla","Dip. Zuleyma Huidobro González","Representación proporcional",NA,NA,NA,"4"
+"","F-199",NA,"Chihuahua","Dip. Martha Beatriz Córdova Bernal","Representación proporcional",NA,NA,NA,"1"
+"","B-037",NA,"Ciudad de México","Dip. René Ricardo Fujiwara Montelongo","Representación proporcional",NA,NA,NA,"4"
+"","B-034",NA,"Ciudad de México","Dip. Cristina Olvera Barrios","Representación proporcional",NA,NA,NA,"4"
+"","G-210",NA,"México","Dip. Adriana González Carrillo","Representación proporcional",NA,NA,NA,"5"
+"","D-091",NA,"México","Dip. Alfredo Rivadeneyra Hernández","Representación proporcional",NA,NA,NA,"5"
+"","G-207",NA,"Colima","Dip. Martha Leticia Sosa Govea","Representación proporcional",NA,NA,NA,"5"
+"","E-135",NA,"Michoacán","Dip. José González Morfín","Representación proporcional",NA,NA,NA,"5"
+"","J-332",NA,"Michoacán","Dip. Martha Berenice Álvarez Tovar","Representación proporcional",NA,NA,NA,"5"
+"","G-208",NA,"México","Dip. Ma. Guadalupe Mondragón González","Representación proporcional",NA,NA,NA,"5"
+"","K-373",NA,"Hidalgo","Dip. Erick Marte Rivera Villanueva","Representación proporcional",NA,NA,NA,"5"
+"","F-161",NA,"Colima","Dip. Patricia Lugo Barriga","Representación proporcional",NA,NA,NA,"5"
+"","C-056",NA,"México","Dip. Juan Carlos Uribe Padilla","Representación proporcional",NA,NA,NA,"5"
+"","B-027",NA,"México","Dip. Karina Labastida Sotelo","Representación proporcional",NA,NA,NA,"5"
+"","J-366",NA,"Hidalgo","Dip. Jesús Murillo Karam","Representación proporcional",NA,NA,NA,"5"
+"","F-183",NA,"México","Dip. Erika Yolanda Funes Velázquez","Representación proporcional",NA,NA,NA,"5"
+"","J-356",NA,"México","Dip. Raúl Macías Sandoval","Representación proporcional",NA,NA,NA,"5"
+"","F-181",NA,"Hidalgo","Dip. Nuvia Magdalena Mayorga Delgado","Representación proporcional",NA,NA,NA,"5"
+"","J-353",NA,"Colima","Dip. Arnoldo Ochoa González","Representación proporcional",NA,NA,NA,"5"
+"","M-495",NA,"México","Dip. Maricruz Cruz Morales","Representación proporcional",NA,NA,NA,"5"
+"","I-310",NA,"Michoacán","Dip. Alfredo Anaya Gudiño","Representación proporcional",NA,NA,NA,"5"
+"","J-359",NA,"México","Dip. Leticia Calderón Ramírez","Representación proporcional",NA,NA,NA,"5"
+"","L-449",NA,"México","Dip. Brasil Alberto Acosta Peña","Representación proporcional",NA,NA,NA,"5"
+"","H-251",NA,"Michoacán","Dip. Blanca Ma. Villaseñor Gudiño","Representación proporcional",NA,NA,NA,"5"
+"","J-360",NA,"México","Dip. Fernando Salgado Delgado","Representación proporcional",NA,NA,NA,"5"
+"","D-110",NA,"México","Dip. Javier Salinas Narváez","Representación proporcional",NA,NA,NA,"5"
+"","C-071",NA,"México","Dip. Juana Bonilla Jaime","Representación proporcional",NA,NA,NA,"5"
+"","D-109",NA,"México","Dip. Ramón Montalvo Hernández","Representación proporcional",NA,NA,NA,"5"
+"","B-045",NA,"México","Dip. Josefina Salinas Pérez","Representación proporcional",NA,NA,NA,"5"
+"","A-019",NA,"Michoacán","Dip. Victor Manuel Manriquez González","Representación proporcional",NA,NA,NA,"5"
+"","C-079",NA,"Michoacán","Dip. Verónica García Reyes","Representación proporcional",NA,NA,NA,"5"
+"","C-077",NA,"México","Dip. Ángel Cedillo Hernández","Representación proporcional",NA,NA,NA,"5"
+"","K-411",NA,"México","Dip. Julisa Mejía Guardado","Representación proporcional",NA,NA,NA,"5"
+"","G-237",NA,"Hidalgo","Dip. Pedro Porras Pérez","Representación proporcional",NA,NA,NA,"5"
+"","D-108",NA,"México","Dip. Carla Guadalupe Reyes Montiel","Representación proporcional",NA,NA,NA,"5"
+"","M-498",NA,"México","Dip. Domitilo Posadas Hernández","Representación proporcional",NA,NA,NA,"5"
+"","D-117",NA,"México","Dip. Ricardo Cantú Garza","Representación proporcional",NA,NA,NA,"5"
+"","C-081",NA,"Michoacán","Dip. Ma. del Carmen Martínez Santillán","Representación proporcional",NA,NA,NA,"5"
+"","P-505",NA,"México","Dip. Javier Orozco Gómez","Representación proporcional",NA,NA,NA,"5"
+"","H-262",NA,"México","Dip. Carla Alicia Padilla Ramos","Representación proporcional",NA,NA,NA,"5"
+"","J-348",NA,"Colima","Dip. Nabor Ochoa López","Representación proporcional",NA,NA,NA,"5"
+"","H-283",NA,"México","Dip. Juan Ignacio Samperio Montaño","Representación proporcional",NA,NA,NA,"5"
+"","C-066",NA,"México","Dip. Lucila Garfias Gutiérrez","Representación proporcional",NA,NA,NA,"5"
+"","C-065",NA,"México","Dip. Luis Antonio González Roldán","Representación proporcional",NA,NA,NA,"5"

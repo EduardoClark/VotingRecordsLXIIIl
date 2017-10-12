@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "#GetRecord Function\nDB <- function(Y){\n  print(Y)\n  \n  #Get Candidate Info\n  D0 <- read_html(paste(\"http://sitl.diputados.gob.mx/LXII_leg/curricula.php?dipt=\",Y,sep=\"\"))\n  tryCatch({\n    D0 <- D0 %>% html_table(fill=T)\n    D0 <- as.data.frame(D0[3])[-c(7:13),2:3]\n    D0[1,1] <- \"Nombre\"\n    D0 <- D0 %>% mutate(X2=gsub(pattern=\":\",replacement=\"\",x=X2),X2=gsub(pattern=\" \",replacement=\"\",x=X2)) %>%\n      spread(X2,X3)\n    return(D0)\n  },error=function(cond) {\n    D0 <- data.frame(X1 =NA,X2 =NA,X3 =NA,X4 =NA,X5 =NA,X6=NA)\n    names(D0) <- c('Cabecera','Curul','Distrito','Entidad','Nombre','Tipodeelección')\n    return(D0)\n  }\n  )\n  \n  #Get Voting Record\n  VotingPeriods <- paste(\"http://sitl.diputados.gob.mx/LXII_leg/votaciones_por_pernplxii.php?iddipt=\",Y,\"&pert=\",c(1,3,13,14,5,7,15,16,17,18,9,11),sep=\"\")\n  VoteRecord <- function(X){\n    print(X)\n    T0 <- read_html(X)\n    tryCatch({\n      T0 <- html_table(x = T0,fill=T)\n      T0 <- as.data.frame(T0[3])[-c(1:3),]\n      T0 <- T0 %>% mutate(X1=ifelse(nchar(X1)<5,NA,X1)) %>% fill(X1) %>% select(-X3,-X5) %>%\n        filter(X1!=X2) \n      names(T0) <- c(\"Fecha\",\"Titulo\",\"Sentido\")\n      F0 <- cbind(D0,T0)\n      return(F0)\n    },error=function(cond) {\n      F0 <- data.frame(X1 =NA,X2 =NA,X3 =NA,X4 =NA,X5 =NA,X6=NA,X7 =NA,X8 =NA,X9 =NA)\n      names(F0) <- c('Cabecera','Curul','Distrito','Entidad','Nombre','Tipodeelección','Fecha','Titulo','Sentido')\n      F0 <- cbind(D0,T0)\n      return(F0)\n    })\n  }\n  F0 <- bind_rows(lapply(VotingPeriods,VoteRecord))\n  return(F0)\n}\n\n#Get complete DB for all 500 deputies\nVotes <- bind_rows(lapply(1:10,DB))\n\n#Clean \nVotes <- Votes %>% filter(is.na(Nombre)!=T)\n\n#Export\nwrite.csv(Votes,\"data-out/votesdbLXII.csv\",row.names = F)\n",
+    "created" : 1507818577527.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2596685234",
+    "id" : "169BFE57",
+    "lastKnownWriteTime" : 1507821424,
+    "last_content_update" : 1507821424096,
+    "path" : "~/VotingRecordsLXIIIl/src/LegLXII.R",
+    "project_path" : "src/LegLXII.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
